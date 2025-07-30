@@ -1,0 +1,6 @@
+pandas
+requests
+beautifulsoup4
+openpyxl
+azure-devops
+msrest
